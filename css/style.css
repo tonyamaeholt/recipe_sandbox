@@ -1,0 +1,201 @@
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+}
+
+.indexbody {
+	background-color:  #e6ffe6;
+}
+
+.header {
+	height: 310px;
+	border: 3px solid black;
+	background-image: url("http://previews.123rf.com/images/jaroslav74/jaroslav741111/jaroslav74111100098/11130461-Chemical-Test-Tube-Medical-experiment-with-Laboratory-glass-Stock-Photo.jpg")
+}
+
+.indexhead {
+	color:  black;
+	font-size: 40px;
+	font-family: Garamond;
+	text-shadow: 3px 3px lightgrey;
+	text-align: center;
+}
+
+.indexsubhead {
+	color:  black;
+	font-size: 36px;
+	font-family: Garamond;
+	font-style: italic;
+	text-shadow: 3px 3px lightgrey;
+	text-align: center;
+	margin-top: 5px;
+}
+
+.indexnav {
+	font-family: fantasy, cursive;
+	max-width: 960px;
+	min-width: 100px;
+	margin: 5%;
+}
+
+.indexnav li {
+	display: inline-block;
+	width: 33%;
+	text-align: center;
+}
+
+.indexnav--button {
+	display: block;
+	font-family: Garamond;
+	font-style: italic;
+	font-size: 18px;
+	border-radius: 10px;
+	border-color: black;
+	color: green;
+	padding: 16px;
+	background-color: white;
+  background-color: buttonface;
+  border-width: 2px;
+  border-style: outset;
+	margin: 5px;
+}
+
+.indexnav--button:hover {
+	font-size: 20px;
+	color: white;
+	background-color: green;
+}
+
+.blogtitle {
+	color: #5c7066;
+	text-decoration: none;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 40px;
+}
+
+._icyx7 {
+	height: 400px;
+	width: 450px;
+	float: left;
+	padding: 12px;
+	background-color: white;
+}
+
+._icyx7 img {
+	padding:1px;
+  border:1px solid #021a40;
+}
+
+.content-container {
+	display: inline-block;
+	width: 650px;
+	font-size: 18px;
+	text-indent: 5px;
+	margin-left: 10px;
+}
+
+.content-container ul {
+	width: 350px;
+	margin: 0 auto;
+}
+
+.indexbody a {
+text-decoration: none;
+}
+
+.mods li {
+text-align: left;
+}
+
+.content-container p {
+text-indent: 50px;
+padding-top: 0;
+}
+
+.content-container p:first-child {
+margin-top: 0;
+}
+
+.home {
+font-family: cursive;
+font-size: 25px;
+background-color: white;
+display: inline-block;
+width: 150px;
+border-radius: 20px;
+}
+
+.home ul {
+	list-style-type: none;
+}
+
+.footer {
+font-family: cursive;
+font-size: 14px;
+text-align: right;
+margin: 45px;
+padding: 10px;
+background-color: white;
+border-radius: 15px;
+}
+
+.aboutmebody {
+background-color: #ffe6e6;
+}
+
+.aboutmehead {
+font-family: fantasy, sans-serif;
+font-size: 30PX;
+text-align: center;
+}
+
+.aboutmecontent p {
+text-indent: 50px;
+}
+
+.recipebody {
+background-image: url("http://previews.123rf.com/images/jaroslav74/jaroslav741111/jaroslav74111100098/11130461-Chemical-Test-Tube-Medical-experiment-with-Laboratory-glass-Stock-Photo.jpg");
+background-repeat: repeat;
+background-attachment: fixed;
+background-position: center;
+}
+
+.recipeheads {
+background-color: lightgrey;
+margin: 7% 0 7% 0;
+
+}
+
+.recipehead  {
+font-size: 30px;
+font-family: Garamond;
+text-align: center;
+}
+
+.recipesubhead {
+font-size: 18px;
+font-family: Garamond;
+font-style: italic;
+text-align: center;
+}
+
+.resourcesbody {
+background-image: url("https://images5.alphacoders.com/415/415977.jpg");
+background-repeat: no-repeat;
+background-position: bottom;
+}
+
+.resourceslist li {
+font-size: 30px;
+margin: 60px;
+padding: 10px;
+text-decoration: underline;
+text-align: left;
+}
+
+.resourceslist {
+padding-bottom: 200px;
+}
